@@ -46,13 +46,14 @@ Changes to the World of Warcraft client can be achieved by 'Patching'. This invo
   1. Download/extract MPQEdit linked above
   2. Create a folder in the extracted directory called 'Modified'
   3. Create a folder in this folder called DBFilesClient
-  4. Open MPQEditor.exe
-  5. Go MPQs -> New MPQ
-  6. Enter the Name of the MPQ - this needs to be patch-# where # is a number greater than 3. Using numbers 1-3 will not work.
-  7. Select Build the MPQ archive from a file or directory, and navigate the path to the 'Modified' folder you created.
-  8. Select World of Warcraft - Wrath of the Lich King in the Game Compatibility section
-  9. If done correctly, the next step will list however many files are in the MPQ to be made (1 if you are only doing this DBC file)
-  10. Follow the wizard through until competion, you will now have a .mpq file in the MPQEdit directory named patch-# where # is the number selected.
+  4. Place the ItemDisplayInfo.dbc we created using the Util in this folder
+  5. Open MPQEditor.exe
+  6. Go MPQs -> New MPQ
+  7. Enter the Name of the MPQ - this needs to be patch-# where # is a number greater than 3. Using numbers 1-3 will not work.
+  8. Select Build the MPQ archive from a file or directory, and navigate the path to the 'Modified' folder you created.
+  9. Select World of Warcraft - Wrath of the Lich King in the Game Compatibility section
+  10. If done correctly, the next step will list however many files are in the MPQ to be made (1 if you are only doing this DBC file)
+  11. Follow the wizard through until competion, you will now have a .mpq file in the MPQEdit directory named patch-# where # is the number selected.
 
 Step 6: Add this Patch to your WoW install directory
 Copy the patch-#.mpq file and put it in your WoW install under Data -> enUS or your locale
