@@ -6,6 +6,7 @@ Tools required:
 DBCUtil - http://www.mediafire.com/file/bcc08c9a14viq9w/DBCUtil.rar/file
 CSVed - https://www.google.com/search?client=firefox-b-d&q=CSVed
 MPQEdit - http://www.zezula.net/en/mpq/download.html
+WowModelViewer - https://wowmodelviewer.net/ (download the Cataclysm version)
 
 Files required:
 DBC Data Files - https://github.com/wowgaming/client-data/releases/
